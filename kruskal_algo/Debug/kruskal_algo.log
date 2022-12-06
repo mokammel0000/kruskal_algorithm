@@ -1,0 +1,4 @@
+﻿  kruskal_algo.cpp
+C:\Users\Lapy\source\repos\kruskal_algo\kruskal_algo\kruskal_algo.cpp(54,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lapy\source\repos\kruskal_algo\kruskal_algo\kruskal_algo.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+  kruskal_algo.vcxproj -> C:\Users\Lapy\source\repos\kruskal_algo\Debug\kruskal_algo.exe
